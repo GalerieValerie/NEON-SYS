@@ -1,0 +1,3 @@
+[submodule "ai_specs_sub"]
+	path = ai_specs_sub
+	url = https://github.com/GalerieValerie/AI-Specs.git
